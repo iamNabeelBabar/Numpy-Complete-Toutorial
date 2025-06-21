@@ -51,3 +51,5 @@ Ideal for **Data Science, Machine Learning, and AI beginners** who want to maste
 
 ```bash
 pip install numpy
+```bash
+import numpy as np
