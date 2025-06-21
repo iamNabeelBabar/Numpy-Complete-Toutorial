@@ -1,4 +1,4 @@
-# NumPy Array Creation, Indexing & Slicing Tutorial
+# NumPy Array Creation, Indexing & Slicing
 
 ## 📌 Overview
 This Jupyter Notebook provides a detailed, well-commented, and beginner-friendly explanation of NumPy's array creation, indexing, and slicing techniques (1D, 2D, 3D).  
